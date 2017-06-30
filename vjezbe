@@ -1,0 +1,16 @@
+	ZNAKOVI
+	   ||
+	   \/
+Leksička analize(TOKENIZACIJA) -> koristi teoriju regularnih jezika
+	   ||
+	   \/	(TOKENI)
+Sintaksna analiza(PARSIRANJE) -> koristi teoriju beskontekstnih jezika
+	   ||
+	   \/	(CAST)
+Semantička analiza(KOMPAJLIRANJE) -> koristi teoriju kontekstnih jezika
+	   ||
+	   \/	
+IZVRŠAVANJE -> koristi teoriju rekurzivnih jezika
+
+
+"Kompajliranje je pretvaranje u međuoblik"
